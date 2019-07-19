@@ -15,7 +15,7 @@ const routes: Routes = [
  // declarations: [],    generally we don't declare components in arouting module
  imports: [ RouterModule.forRoot(routes) ],
  exports: [ RouterModule ]
-  
+  //hai
   
 })
 export class AppRoutingModule { }
